@@ -12,5 +12,6 @@ print(type(course))
 
 print(course[0])
 print(course[1])
-# for x in course:
-#     print(x)
+for x in course:
+  print(x)
+####
